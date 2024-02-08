@@ -24,6 +24,8 @@ git reflog: to see the commits that were made with REF_ID
 
 git reset --hard REF_ID: the state which was required and commited want to back that can be done
 
+git remote add orgin URL_LINK: it will add the repositary to local
+
  
 
 
