@@ -8,7 +8,9 @@ git add .  : it will add all the files to git repositary
 
 git add FileName : To commit file to git repositary
 
-git commit -m "filename.txt fileAdded":to commit changes done here commit names as:fileAdded
+git commit -m "filename.txt fileAdded":to commit changes done here commit names as:fileAdded 
+
+git restore --staged FileName.txt:to restore back the changes that are commited
 
  
 
