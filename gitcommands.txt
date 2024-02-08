@@ -12,6 +12,15 @@ git commit -m "filename.txt fileAdded":to commit changes done here commit names 
 
 git restore --staged FileName.txt:to restore back the changes that are commited
 
+rm -rf fileName.txt : To Remove File from directory
+
+git log : to see the commits done
+
+git stash : to make them not to commited neither 
+not to loose
+
+
+
  
 
 
