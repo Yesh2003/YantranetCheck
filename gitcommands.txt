@@ -1,0 +1,15 @@
+cd folder_name: to enter into a folder
+
+ls -a: to see hidden Files
+
+touch filename:to create a file
+
+git add .  : it will add all the files to git repositary
+
+git add FileName : To commit file to git repositary
+
+ 
+
+
+
+
