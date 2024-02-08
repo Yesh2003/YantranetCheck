@@ -26,6 +26,8 @@ git reset --hard REF_ID: the state which was required and commited want to back 
 
 git remote add orgin URL_LINK: it will add the repositary to local
 
+git push origin master: to link -add 
+
  
 
 
