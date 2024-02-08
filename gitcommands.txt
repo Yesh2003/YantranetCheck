@@ -1,4 +1,5 @@
-cd folder_name: to enter into a folder
+cd folder_name: to enter into a fold
+er
 
 ls -a: to see hidden Files
 
@@ -19,7 +20,9 @@ git log : to see the commits done
 git stash : to make them not to commited neither 
 not to loose
 
+git reflog: to see the commits that were made with REF_ID
 
+git reset --hard REF_ID: the state which was required and commited want to back that can be done
 
  
 
